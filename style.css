@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+    font-family: 'League Spartan', sans-serif;
+}
+.wrapper {
+    max-width: 100%;
+    max-height: none;
+    background: rgb(206, 207, 206);
+}
+.title-watch {
+    max-width: 1440px;
+    height: 939px;
+    margin: 0 auto;
+    display: flex;
+    background-color:rgb(235, 234, 234);
+}
+.info {
+    max-width: 797px;
+}
+.mor {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 186%;
+    color: #161515;
+    margin-left: 133px;
+    margin-top: 100px;
+}
+.title {
+    font-weight: 300;
+    font-size: 250px;
+    line-height: 230px;
+    color: #272727;
+    margin-left: 133px;
+    margin-top: 53px;
+}
+.desc {
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 155%;
+    color: #161515;
+    margin-left: 135px;
+    margin-top: 43px;
+
+}
+.buy {
+    display: inline-block;
+    width: 278px;
+    height: 82px;
+    left: 135px;
+    top: 650px;
+    background: #161515;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 29px;
+    color: #ffffff;
+    margin-left: 135px;
+    margin-right: o;
+}
+.price {
+    display: inline-block;
+    width: 143px;
+    height: 82px;
+    background: #ffffff;
+    box-shadow: 0px 0px 28px rgba(214, 214, 214, 0.25);
+    font-weight: 300;
+    font-size: 32px;
+    text-align: center;
+    color: #272727;
+    padding-top: 26.5px;
+    margin-left: -4px;
+}
+.all-models {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    max-width: 1440px;
+    min-height: 2832px;
+    background: #ffffff;
+}
+.popular {
+    margin-top: 0;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 186%;
+    text-align: center;
+    color: #000000;
+}
+.models {
+    margin-top: 0;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 112.5%;
+    text-align: center;
+    color: #000000;  
+}
+.img2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+}
+.son {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+    margin-top: 177px;
+}
+.two {
+    display: block;
+    max-width: 532px;
+    max-height: 194px;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 155%;
+    text-align: center;
+    color: #161515;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+}
+.sv {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    text-align: center;
+    color: #161515;
+    margin-top: 177px;
+}
+.three {
+    display: block;
+    max-width: 510px;
+    max-height: 196px;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 155%;
+    text-align: center;
+    color: #161515;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pd {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 186%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #161515;
+    margin-top: 150px;
+}
+.product-desc {
+    display: block;
+    max-width: 515px;
+    max-height: 231px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 170%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.more {
+    color: #BB8B5D;
+}
